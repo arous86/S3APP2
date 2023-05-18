@@ -14,5 +14,34 @@ d'indexation utilisées. La section "Modèle en étoile de l'entrepôt de donné
 expliquer la notion d'entrepôt de données et comment elle s'intègrerait dans le
 système de réservation.*
 
-POUR LE CODE
+POUR LES FICHIERS
+La remise aura la forme d'un PDF avec le contenu et dans l'ordre indiqué.
+
+# Règles de réservation
+
+Application dédiée aux membres de la Faculté qui sont sous la responsabilité d'un
+département.
+
+Les dépatements sont :
+- Génie électrique et Génie informatique
+- Génie mécanique
+- Génie chimique et biotechnologie
+- Génie civil et du bâtiment
+
+Les membres de la Faculté peuvent vérifier la disponibilité et faire la réservation
+des salles libres.
+
+Un membre peut faire à l'avance un réservation pour une catégorie de local.
+*Le statut du membre, la catégorie de local et le département d'appartenance du
+membre déterminera combien de temps à l'avance un membre peut réserver un local.*
+
+Certains locaux ne sont disponibles que pour certains status des membres. Ces
+status sont:
+- Étudiants
+- Enseignants
+- Personnel de soutien
+- Administrateurs
+
+
+CONTINUER PAGE 27
 
