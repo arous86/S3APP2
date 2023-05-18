@@ -3,6 +3,7 @@
 # À remettre:
 
 POUR LE RAPPORT
+
 - Modèle conceptuel de donnees
 - Modèle relationnel de donnees
 - Procédure pour le tableau de réservation (Gestion de cubicules, Chevauchement des réservations)
@@ -15,6 +16,7 @@ expliquer la notion d'entrepôt de données et comment elle s'intègrerait dans 
 système de réservation.*
 
 POUR LES FICHIERS
+
 La remise aura la forme d'un PDF avec le contenu et dans l'ordre indiqué.
 
 # Règles de réservation
@@ -32,6 +34,7 @@ Les membres de la Faculté peuvent vérifier la disponibilité et faire la rése
 des salles libres.
 
 Un membre peut faire à l'avance un réservation pour une catégorie de local.
+
 *Le statut du membre, la catégorie de local et le département d'appartenance du
 membre déterminera combien de temps à l'avance un membre peut réserver un local.*
 
