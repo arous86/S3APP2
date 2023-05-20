@@ -45,6 +45,31 @@ status sont:
 - Personnel de soutien
 - Administrateurs
 
+*Un membre de la Faculté peut avoir plusieurs statuts*
 
-CONTINUER PAGE 27
+Certains privilège seront accordés aux statuts tels que:
+- Peut réserver plus de 24 heures
+- Peut seulement voir les réservations mais pas en créer
+- Peut effacer les réservations d’un autre usager
 
+On doit connaitre les ressources d'un local. L'application doit permettre
+de gérer les locaux avec leurs caractéristiques respectives:
+- Capacité
+- Tableaux
+- Ordinateurs
+- Salle multimédia
+
+Et leur quantité respective dans chaque local. La BDD doit s'assurer qu'on
+ne peut insérer des réservations qui seront en conflit entre elles.
+
+Les locaux sont dans des pavillons qui eux appartiennent à des campus. Ainsi il
+y a le Campus de Longueuil, le Campus de l’Ouest et le Campus de l’Est.
+
+Les pavillons sont identifiés par un nom tel que par exemple, le pavillon J-Armand Bombar-
+dier et le pavillon Marie-Victorin. Pour éviter le dédoublement d’identificateur, vous utiliserez
+le système de classement du service des immeubles qui utilise une lettre et un chiffre pour un
+pavillon (ex : D7 pour Marie-Victorin) et un numéro avec possibilité de tiret entre les chiffres
+pour un local spécifique. Par exemple le C1-3125 est un laboratoire du pavillon J.-Armand
+Bombardier. Certains locaux peuvent être divisé en sous-local (cubicule). Par exemple le
+local C1-3035 peut être divisé en 6 cubicules. Donc il est possible qu’un local ait un local
+parent.
